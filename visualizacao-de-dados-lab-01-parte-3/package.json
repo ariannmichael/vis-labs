@@ -1,0 +1,14 @@
+{
+  "name": "@ariannmichael/visualizacao-de-dados-lab-01-parte-3",
+  "main": "d/d4d3af837fff4a38.js",
+  "version": "89.0.0",
+  "homepage": "https://observablehq.com/@ariannmichael/visualizacao-de-dados-lab-01-parte-3",
+  "author": {
+    "name": "Ariann Michael Martins De Andrade Farias",
+    "url": "https://observablehq.com/@ariannmichael"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
