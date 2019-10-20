@@ -1,0 +1,14 @@
+{
+  "name": "@ariannmichael/quais-aspectos-influenciam-na-dancabilidade-de-uma-musica",
+  "main": "d/8dd9d891c78e7ba6.js",
+  "version": "65.0.0",
+  "homepage": "https://observablehq.com/@ariannmichael/quais-aspectos-influenciam-na-dancabilidade-de-uma-musica",
+  "author": {
+    "name": "Ariann Michael Martins De Andrade Farias",
+    "url": "https://observablehq.com/@ariannmichael"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
